@@ -17,7 +17,7 @@
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:Wesleyalvez97@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://github.com/Wesleyalvez97/Wesleyalvez97/edit/main/README.md"></a> 
+  <a href="" target="_blank"><img src="https://media.giphy.com/media/pLAHFrr3YY5MLqahsn/giphy.gif?cid=790b76114bcab604f8ddaeeb61be5f2028616f48bf7ac80f&rid=giphy.gif&ct=g"></a> 
  
   ![Snake animation](https://github.com/Wesleyalvez97/Wesleyalvez97/blob/output/github-contribution-grid-snake.svg)
  
